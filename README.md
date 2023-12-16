@@ -190,7 +190,7 @@ src="https://img.shields.io/twitch/status/cyber_dna?logo=twitchsx&style=for-the-
       />
     </picture>
   </a>
-  <a
+<!--   <a
     href="https://discord.com/users/468705705436643329"
     target="_blank"
     rel="noreferrer"
@@ -209,7 +209,7 @@ src="https://img.shields.io/twitch/status/cyber_dna?logo=twitchsx&style=for-the-
         height="32"
       />
     </picture>
-  </a>
+  </a> -->
   <a
     href="https://www.facebook.com/ducnguyen6693"
     target="_blank"
@@ -256,7 +256,7 @@ src="https://img.shields.io/twitch/status/cyber_dna?logo=twitchsx&style=for-the-
       />
     </picture>
   </a>
-  <a href="http://www.instagram.com/dna.2711/" target="_blank" rel="noreferrer">
+<!--   <a href="http://www.instagram.com/dna.2711/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="undefined" />
       <source
@@ -271,7 +271,7 @@ src="https://img.shields.io/twitch/status/cyber_dna?logo=twitchsx&style=for-the-
         height="32"
       />
     </picture>
-  </a>
+  </a> -->
   <a
     href="https://www.linkedin.com/in/dna2711"
     target="_blank"
@@ -297,7 +297,7 @@ src="https://img.shields.io/twitch/status/cyber_dna?logo=twitchsx&style=for-the-
       />
     </picture>
   </a>
-  <a
+<!--   <a
     href="https://www.stackoverflow.com/users/22721342/dna"
     target="_blank"
     rel="noreferrer"
@@ -316,8 +316,8 @@ src="https://img.shields.io/twitch/status/cyber_dna?logo=twitchsx&style=for-the-
         height="32"
       />
     </picture>
-  </a>
-  <a href="https://www.youtube.com/@dna_2711" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://www.youtube.com/@dna_2711" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="undefined" />
       <source
@@ -332,8 +332,8 @@ src="https://img.shields.io/twitch/status/cyber_dna?logo=twitchsx&style=for-the-
         height="32"
       />
     </picture>
-  </a>
-  <a href="https://www.twitch.tv/cyber_dna" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://www.twitch.tv/cyber_dna" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="undefined" />
       <source
@@ -349,7 +349,7 @@ src="https://img.shields.io/twitch/status/cyber_dna?logo=twitchsx&style=for-the-
       />
     </picture>
   </a>
-</p>
+</p> -->
 
 ### Badges
 
