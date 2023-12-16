@@ -14,11 +14,12 @@ compelling and holistic approach. My journey reflects a conscious choice to not
 only appreciate the intricacies of coding but also to comprehend the inner
 workings of the physical components that constitute a computing system. This
 combination of skills positions me as a versatile IT professional, capable of
-navigating both the software and hardware dimensions of technology. * 🌍  I'm
-based in Ha Noi * ✉️  You can contact me at
-[ducnguyen6693@gmail.com](mailto:ducnguyen6693@gmail.com) * ⚡  I'm secretly
-Spiderman... but don't tell anyone ### Skills
+navigating both the software and hardware dimensions of technology. 
+* 🌍  I'm based in Ha Noi
+* ✉️  You can contact me at [ducnguyen6693@gmail.com](mailto:ducnguyen6693@gmail.com)
+* ⚡  I'm secretly Spiderman... but don't tell anyone
 
+* ### Skills
 <p align="left">
   <a
     href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
