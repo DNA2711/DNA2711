@@ -2,7 +2,9 @@ Hi
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My
 name is Nguyễn Đức Anh
 ======================================================================================================================================
-Software Engineering -------------------- I have been immersed in coding for
+Software Engineering 
+-------------------- 
+I have been immersed in coding for
 three years now. Before stepping into the realm of programming, my true passion
 lay in computer hardware. I was deeply fascinated by technological devices and
 computer components. However, one day, I came to the realization that it would
